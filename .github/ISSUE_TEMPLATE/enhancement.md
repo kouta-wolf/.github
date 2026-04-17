@@ -1,20 +1,3 @@
----
-name: Enhancement
-about: 機能の追加
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
-name: enhancement_template
-about: 新機能追加用のテンプレートです
-title: ''
-labels: enhancement
-assignees: ''
----
-
 ## 概要
 <!-- 追加する機能の目的や背景を簡潔に記述してください -->
 
