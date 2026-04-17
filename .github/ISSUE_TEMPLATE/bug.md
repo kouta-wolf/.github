@@ -1,33 +1,19 @@
----
-name: Bug
-about: バグ報告
-title: ''
-labels: ''
-assignees: ''
+## Summary
+<!-- Briefly describe the bug / 発生しているバグの内容を簡潔に記述してください -->
 
----
+## Steps to Reproduce
+<!-- Describe the steps to reproduce the bug / バグの発生手順を記述してください -->
+1. 
+2. 
+3. 
 
----
-name: bug_template
-about: 不具合修正用のテンプレートです
-title: ''
-labels: bug
-assignees: ''
----
+## Expected Behavior
+<!-- Describe what you expected to happen / 本来どのような挙動が期待されるかを記述してください -->
 
-## 概要
-<!-- 発生しているバグの内容を簡潔に記述してください -->
-
-## 再現手順
-<!-- バグの発生手順を記述してください -->
-
-## 期待される動作
-<!-- 本来どのような挙動が期待されるかを記述してください -->
-
-## 実際の挙動
-<!-- 現在の動作・発生している問題を記述してください -->
+## Actual Behavior
+<!-- Describe what actually happened / 現在の動作・発生している問題を記述してください -->
 
 
-## 補足情報
-<!-- スクリーンショット・エラーログ・その他関連情報などがあれば記載してください -->
-例: 特に無し
+## Additional Information
+<!-- Screenshots, error logs, or any other relevant information / スクリーンショット・エラーログ・その他関連情報などがあれば記載してください -->
+<!--　Ex: N/A / 例: 特に無し -->
