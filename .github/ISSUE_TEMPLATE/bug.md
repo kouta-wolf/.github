@@ -1,6 +1,6 @@
 ---
-name: bug
-about: bug報告
+name: Bug
+about: Bug報告
 title: ''
 labels: ''
 assignees: ''
