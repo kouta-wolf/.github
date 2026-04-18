@@ -7,22 +7,41 @@ assignees: ''
 
 ---
 
-## Summary
-<!-- Briefly describe the bug / 発生しているバグの内容を簡潔に記述してください -->
+### 💡 Summary
+<!-- Provide a concise description of the bug. -->
+<!-- バグの内容を簡潔に説明してください。 -->
 
-## Steps to Reproduce
-<!-- Describe the steps to reproduce the bug / バグの発生手順を記述してください -->
+
+### ✨ Expected Behavior
+<!-- Describe what you expected to happen. -->
+<!-- 本来どのような挙動になるのが正解か記述してください。 -->
+
+
+### 💥 Actual Behavior
+<!-- Describe what actually happened. Include error messages or screenshots if possible. -->
+<!-- 実際に何が起きましたか？エラーログやスクリーンショットがあれば添付してください。 -->
+
+
+### 📋 Steps to Reproduce
+<!-- Provide a clear sequence of steps to reproduce the behavior. -->
+<!-- 再現手順を詳しく教えてください。 -->
 1. 
 2. 
 3. 
 
-## Expected Behavior
-<!-- Describe what you expected to happen / 本来どのような挙動が期待されるかを記述してください -->
 
-## Actual Behavior
-<!-- Describe what actually happened / 現在の動作・発生している問題を記述してください -->
+### 💻 Environment
+<!-- Information about your setup. -->
+<!-- あなたの環境情報を教えてください。 -->
+- **Device & OS:** 
+- **Browser:** 
+- **Version:** 
 
 
-## Additional Information
-<!-- Screenshots, error logs, or any other relevant information / スクリーンショット・エラーログ・その他関連情報などがあれば記載してください -->
-<!--　Ex: N/A / 例: 特に無し -->
+---
+
+### 🙋 Do you want to address this bug yourself?
+<!-- Check this if you are willing to fix this issue yourself. -->
+<!-- あなた自身が修正を行いたい場合はチェックを入れてください。 -->
+
+- [ ] Yes, I will patch the bug myself and send a pull request
