@@ -1,7 +1,7 @@
 ---
 name: Research / Investigation
 about: 調査・技術選定・学習ノート
-title: '[Research]: '
+title: '[調査]: '
 labels: 'research'
 assignees: ''
 
